@@ -17,10 +17,10 @@ console.log("hello world")
 let username
 console.log("This is the username: ", username)
 
-username = "matias"
+username = "alexis"
 console.log("This is the username: ", username)
 
-username = "antonio"
+username = "matias"
 console.log("This is the username: ", username)
 
 // JavaScript is dynamically typed
@@ -115,14 +115,14 @@ console.clear()
 
 // Strings
 // You can use "" (double quotes), '' (single quotes) or `` (backticks) to create a string
-username = "matias"
-username = 'matias'
-username = `matias`
+username = "alexis"
+username = 'alexis'
+username = `alexis`
 
 // Concatenate strings
 
 // The oldschool way of concatenating strings: +
-username = "matias"
+username = "alexis"
 const greeting = "hello"
 
 console.log(greeting + " " + username)
